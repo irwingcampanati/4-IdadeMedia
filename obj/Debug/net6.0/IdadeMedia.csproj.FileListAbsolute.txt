@@ -1,0 +1,15 @@
+C:\Users\irwin\OneDrive\Documentos\GitHub\4-IdadeMedia\bin\Debug\net6.0\IdadeMedia.exe
+C:\Users\irwin\OneDrive\Documentos\GitHub\4-IdadeMedia\bin\Debug\net6.0\IdadeMedia.deps.json
+C:\Users\irwin\OneDrive\Documentos\GitHub\4-IdadeMedia\bin\Debug\net6.0\IdadeMedia.runtimeconfig.json
+C:\Users\irwin\OneDrive\Documentos\GitHub\4-IdadeMedia\bin\Debug\net6.0\IdadeMedia.dll
+C:\Users\irwin\OneDrive\Documentos\GitHub\4-IdadeMedia\bin\Debug\net6.0\IdadeMedia.pdb
+C:\Users\irwin\OneDrive\Documentos\GitHub\4-IdadeMedia\obj\Debug\net6.0\IdadeMedia.csproj.AssemblyReference.cache
+C:\Users\irwin\OneDrive\Documentos\GitHub\4-IdadeMedia\obj\Debug\net6.0\IdadeMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irwin\OneDrive\Documentos\GitHub\4-IdadeMedia\obj\Debug\net6.0\IdadeMedia.AssemblyInfoInputs.cache
+C:\Users\irwin\OneDrive\Documentos\GitHub\4-IdadeMedia\obj\Debug\net6.0\IdadeMedia.AssemblyInfo.cs
+C:\Users\irwin\OneDrive\Documentos\GitHub\4-IdadeMedia\obj\Debug\net6.0\IdadeMedia.csproj.CoreCompileInputs.cache
+C:\Users\irwin\OneDrive\Documentos\GitHub\4-IdadeMedia\obj\Debug\net6.0\IdadeMedia.dll
+C:\Users\irwin\OneDrive\Documentos\GitHub\4-IdadeMedia\obj\Debug\net6.0\refint\IdadeMedia.dll
+C:\Users\irwin\OneDrive\Documentos\GitHub\4-IdadeMedia\obj\Debug\net6.0\IdadeMedia.pdb
+C:\Users\irwin\OneDrive\Documentos\GitHub\4-IdadeMedia\obj\Debug\net6.0\IdadeMedia.genruntimeconfig.cache
+C:\Users\irwin\OneDrive\Documentos\GitHub\4-IdadeMedia\obj\Debug\net6.0\ref\IdadeMedia.dll
